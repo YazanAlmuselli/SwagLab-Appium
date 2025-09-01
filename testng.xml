@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite">
+
+	<listeners>
+		<listener class-name="org.Appium_Mobile_Testing.SwagLab_App.Listeners" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<!-- <class
+			name="org.Appium_Mobile_Testing.SwagLab_App.ProductDetailPage" /> -->
+			<!-- <class
+			name="org.Appium_Mobile_Testing.SwagLab_App.Checkout_OverviewPage"
+			/> -->
+			<class name="org.Appium_Mobile_Testing.SwagLab_App.LoginPage" />
+			<!-- <class name="org.Appium_Mobile_Testing.SwagLab_App.ProblemUser"
+			/> -->
+			<!-- <class name="org.Appium_Mobile_Testing.SwagLab_App.SideMenu" /> -->
+			<class name="org.Appium_Mobile_Testing.SwagLab_App.CartPage" />
+			<!-- <class
+			name="org.Appium_Mobile_Testing.SwagLab_App.Checkout_InformationPage"
+			/> -->
+			<class name="org.Appium_Mobile_Testing.SwagLab_App.ProductsPage" />
+			<!-- <class
+			name="org.Appium_Mobile_Testing.SwagLab_App.Checkout_CompletePurchasePage"
+			/> -->
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
