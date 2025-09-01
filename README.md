@@ -18,10 +18,10 @@ Extent Reports 📊 — generating rich, visual HTML reports for test execution
 
 🔹 What I Learned
 
-✔️ Writing and executing mobile UI tests with Appium 
-✔️ Structuring test cases and managing execution flow with TestNG 
-✔️ Handling mobile gestures, locators, and validations 
-✔️ Reporting results with detailed logs and screenshots using Extent Reports 
+✔️ Writing and executing mobile UI tests with Appium  
+✔️ Structuring test cases and managing execution flow with TestNG  
+✔️ Handling mobile gestures, locators, and validations  
+✔️ Reporting results with detailed logs and screenshots using Extent Reports  
 
 🔹 Reporting
 
